@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency 'activemerchant', '~> 1.60'
-  spec.add_dependency 'offsite_payments', '~> 2'
+  spec.add_dependency 'offsite_payments', '~> 2.3.0'
 
   spec.add_development_dependency 'rails', '>= 3.2.6', '< 6'
 
